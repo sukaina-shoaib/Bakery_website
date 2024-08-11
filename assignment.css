@@ -1,0 +1,15 @@
+.upper{ 
+    display: flex;
+  padding: 10px;
+    gap: 50px;
+    margin-left:30px;
+}
+.nav-link{
+    margin-left: 18px;
+align-items: center;
+}
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  
+}
